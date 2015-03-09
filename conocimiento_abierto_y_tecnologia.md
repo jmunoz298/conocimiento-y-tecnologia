@@ -11,7 +11,7 @@ Cuentan que, en 1980, [Richard Stallman](https://www.stallman.org/) , del Labora
 
 Stallman, que piensa que los usuarios deberían tener acceso total al software que utilizan, tras abandonar el MIT y tras publicar el [Manifiesto GNU](www.gnu.org/gnu/manifesto.es.html)  (en el que plantea la necesidad de crear un sistema operativo libre), crea la [Free Software Foundation](https://www.fsf.org/) , "a nonprofit with a worldwide mission to promote computer user freedom and to defend the rights of all free software users".
 
-Poco después, en 1989, crea la licencia [GNU GPL](http:((www.gnu.org/licenses/gpl.html) (General Public License), y se plantean los cuatro famosos [principios](https://www.gnu.org/philosophy/free-sw.es.html) que definen lo que significa software libre: libertad de ejecutar, libertad de estudiar y modificar, libertad de distribuir, y la libertad de mejorar el programa y publicas sus mejoras.
+Poco después, en 1989, crea la licencia [GNU GPL](http://www.gnu.org/licenses/gpl.html) (General Public License), y se plantean los cuatro famosos [principios](https://www.gnu.org/philosophy/free-sw.es.html) que definen lo que significa software libre: libertad de ejecutar, libertad de estudiar y modificar, libertad de distribuir, y la libertad de mejorar el programa y publicas sus mejoras.
 
 La segunda historia tiene que ver con un ratón nacido en 1928, un ratón llamado Mickey que durante años ha sido esclavo de sus creadores, la compañía Disney. El problema para Disney era que, según las leyes de copyright, el plazo máximo para que una obra pasara a dominio público[^fn1], era de 75 años (antes "sólo" 56), por lo que en 2004 Mickey alcanzaría la libertad y Disney perdería la exclusividad de explotación.
 
